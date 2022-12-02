@@ -1,0 +1,11 @@
+*config.h
+
+*.ai
+assets
+doc
+docs
+examples
+example
+*~
+*.txt
+
